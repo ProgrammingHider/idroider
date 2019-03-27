@@ -1,4 +1,4 @@
-## idroider - iOS and Android CFW
+## iDroider - iOS and Android CFW
 * Supports iPhone 2g, 3g, and iPod Touch 1g
 * Custom Firmware Bundled with iOS 3.1.2 and Android 2.2.3
 * Uses iDroider Desktop Program to install OpeniBoot, making this a “2 step” install
