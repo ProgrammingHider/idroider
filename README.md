@@ -69,3 +69,54 @@ Linux
 #FAQ
 * Can this be done on Linux - Yes but you will have to compile yourself and find a way to restore
 * Does it work on all macOS and Windows versions - Yes aslong as your have a newer iTunes 
+
+## Coming soon!
+
+* Clean up the code and make it run "better"
+* Include OpeniBoot installer App on the phone/CFW for eaiser install
+* Fixed SSL Errors in Cydia
+
+
+* "heres the big one" Support for more Devices! (3gs, 4/4s, 5, 5c) **Not ios 7 on a 3gs or ios 11 on a 5/5c but dual booting and other CFW. Write up soon :P
+
+* Untethered Dual-Boot with ios 6 and 7 for the iPod Touch 4g
+
+* More Later!
+
+
+## Disclaimer
+
+**This is BETA software.**
+
+Backup your data.
+
+This tool is currently in beta and could potentially brick your device. It will attempt to save a copy of data in NOR to nor-backups folder before flashing new data to NOR, and it will attempt to not overwrite critical data in NOR which your device requires to function. If something goes wrong, hopefully you will be able to restore to latest IPSW in iTunes and bring your device back to life, or use nor-backups to restore NOR to the original state, but I cannot provide any guarantees.
+
+**There is NO warranty provided.**
+
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+**WARNING!**
+
+* We are not help responsible for anything that happens to your device.
+* It is possible that this will not work on your device.
+* This could leave your device in a bootloop.
+* iOS 7 on the iPod Touch 4 is VERY unstable.
+* There will be crashing and issues.
+* There has been a lot of issues with 16gb iPods.
+* All data on the iPod will be deleted.
+
+## Credit
+
+* @tie1r for ipwn7 :P
+* @Ralph0045 for the iOS 7.1.2 ipsw and all his work with this!
+* axi0mX for ipwndfu (and readme template lel)
+* geohot for limera1n exploit
+* posixninja and pod2g for SHAtter exploit
+* iPhone Dev Team for 24Kpwn exploit
+* pod2g for steaks4uce exploit
+* walac for pyusb
+* tihmstar for futurerestore
+* @albyvar25 for the WI-Fi driver fix
+* iH8sn0w for iFaith
+
