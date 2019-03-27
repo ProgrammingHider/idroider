@@ -17,8 +17,6 @@ iDroider Comes Preloaded with:
 * Updated dpkg
 * Fixed Cydia for iOS 3 (Soon)
 * Full Jailbreak (Pwnagetool)
-* Hackivated
-* Unlocked and Flashed BL 4.6
 
 ## How to install
 
