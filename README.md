@@ -119,6 +119,7 @@ THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
 * iDroid Project for OpeniBoot
 * iDroid Project for iDroid Images
 * iDroid Project for OpeniBoot
+* iDroid Project for OiBC and loadibec
 
 ## Credit for iDroid Creators
 <ul>
