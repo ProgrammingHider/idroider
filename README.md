@@ -101,22 +101,47 @@ THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
 * We are not help responsible for anything that happens to your device.
 * It is possible that this will not work on your device.
 * This could leave your device in a bootloop.
-* iOS 7 on the iPod Touch 4 is VERY unstable.
+* Android on the iPhone 2g/3g and iPod Touch 1g is some what unstable.
 * There will be crashing and issues.
-* There has been a lot of issues with 16gb iPods.
-* All data on the iPod will be deleted.
+* All data on the decvice will be deleted.
 
 ## Credit
 
-* @tie1r for ipwn7 :P
-* @Ralph0045 for the iOS 7.1.2 ipsw and all his work with this!
-* axi0mX for ipwndfu (and readme template lel)
+* @tie1r for iDroider CFW, iDroider Program, idroidertools3, idroiderdrivers
 * geohot for limera1n exploit
 * posixninja and pod2g for SHAtter exploit
 * iPhone Dev Team for 24Kpwn exploit
 * pod2g for steaks4uce exploit
-* walac for pyusb
-* tihmstar for futurerestore
-* @albyvar25 for the WI-Fi driver fix
-* iH8sn0w for iFaith
+* iPhone dev team for Pwnagetool 
+* iPhone dev team for Pwnage
+* iPhone dev team for Pwnage 2.0
+* iPhone dev team for Pwnage
+* iDroid Project for OpeniBoot
+* iDroid Project for iDroid Images
+* iDroid Project for OpeniBoot
+
+## Credit for iDroid Creators
+<ul>
+  <li><a href="https://github.com/bluerise">Patrick Wildt</a></li>
+  <li><a href="https://github.com/boxingcow">boxingcow</a></li>
+  <li><a href="https://github.com/CPICH">CPICH</a></li>
+  <li><a href="https://github.com/ddominator">Rex Justin Lim</a></li>
+  <li><a href="https://github.com/Neonkoala">Nick Dawson</a></li>
+  <li><a href="https://github.com/nickpack">Nick Pack</a></li>
+  <li><a href="https://github.com/oranav">Oran Avraham</a></li>
+  <li><a href="https://github.com/ricky26">Ricky Taylor</a></li>
+  <li><a href="https://github.com/planetbeing">David Wang</a></li>
+</ul>
+
+<p><b>Licensing for the original iDroid, OpeniBoot and the text written be myself on this page</b><p>
+  <ul>
+  <li>The original iDroid Wiki Text was under <a href="http://www.gnu.org/copyleft/fdl.html">GNU Free Documentation License 1.3</a></li>
+  <li>Anything else from the original iDroid project was under <a href="https://creativecommons.org/licenses/by-sa/1.0/">CC BY-SA</a></li>
+  <li>The text on this Git is written by myself and not copied from the original iDroid, but it is still under the same license as the original Wiki text (<a href="http://www.gnu.org/copyleft/fdl.html">GNU Free Documentation License 1.3</a>)</li>
+</ul>
+
+<p><b>This project comes with no warranties. You're responsible for your broken devices if you screw up. No support should be requested or will be given.</b><p>
+
+
+
 
