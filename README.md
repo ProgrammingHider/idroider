@@ -16,7 +16,7 @@ iDroider Comes Preloaded with:
 * Bundle of additional cmd tools
 * Updated dpkg
 * Fixed Cydia for iOS 3 (Soon)
-* Full Jailbreak (Pwnagetool)
+* Full Jailbreak (Using Pwnage and Ramdisk Hack)
 
 ## How to install
 
