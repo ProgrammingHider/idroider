@@ -28,7 +28,7 @@ macOS
 * iTunes will open, simple Alt-Click Restore and select the IPSW you downloaded
 * Let it restore once on the homescreen turn of the device
 * Turn it back on and let it sit for 5-7 minutes (This is extremely important as it needs to copy all files)
-* Once down feel free to confirm it worked by opening iFile and looking in /var and see if there are 5 new files
+* Once done feel free to confirm it worked by opening iFile and looking in /var and see if there are 5 new files
 * Put device into recovery mode and open iDroider Program 
 * Press “Install OIB for (Your Device)” you should see your screen turn white and open a screen with 4 options, use the volume up to select “install” hit the home button 
 * Let it install this could up to 15 mins, if you have issues let me know.
@@ -43,8 +43,24 @@ Windows
 * iTunes will open, simple Shift-Click Restore and select the IPSW you downloaded
 * Let it restore once on the homescreen turn of the device
 * Turn it back on and let it sit for 5-7 minutes (This is extremely important as it needs to copy all files)
-* Once down feel free to confirm it worked by opening iFile and looking in /var and see if there are 5 new files
+* Once done feel free to confirm it worked by opening iFile and looking in /var and see if there are 5 new files
 * Put device into recovery mode and open iDroider Bat File
+* Select  “1, 2, or 3” (Depends on device) you should see your screen turn white and open a screen with 4 options, use the volume up to select “install” hit the home button 
+* Let it install this could up to 15 mins, if you have issues let me know.
+* Once install or if you only want to just boot android, select the iDroid and press the home button
+* iDroid will boot and you see the android homescreen, Enjoy!
+
+
+Linux
+* Download the IPSW for your device from [here](link)
+* Download iDroider.sh File from [here](link)
+* Plug in device in dfu mode 
+* Run idroider.sh and select “4”
+* Restore Using your method of choice such as; idevicerestore, VM, Wine iTunes, etc
+* Once restore is done and you are on the homescreen shutdown the device
+* Turn it back on and let it sit for 5-7 minutes (This is extremely important as it needs to copy all files)
+* Once done feel free to confirm it worked by opening iFile and looking in /var and see if there are 5 new files
+* Put device into recovery mode and open iDroider.sh File
 * Select  “1, 2, or 3” (Depends on device) you should see your screen turn white and open a screen with 4 options, use the volume up to select “install” hit the home button 
 * Let it install this could up to 15 mins, if you have issues let me know.
 * Once install or if you only want to just boot android, select the iDroid and press the home button
