@@ -1,29 +1,23 @@
-## iDroider - iOS and Android CFW
+## iDroider - Easy iDroider Installer
 * Supports iPhone 2g, 3g, and iPod Touch 1g
-* Custom Firmware Bundled with iOS 3.1.2 and Android 2.2.3
-* Uses iDroider Desktop Program to install OpeniBoot, making this a “2 step” install
+* Tweak/Tool that easly installs iDroid
+* Uses iDroiderDesktop to install OpeniBoot and a DEB File to do the rest
 * No special version of iTunes is needed for this tool
 
-## The Custom Firmware
+## Features
 iDroider Comes Preloaded with:
-* iOS 3.1.2
-* Android (iDroid) 2.2.3
-* OpenSSH
-* MobileTerminal
-* iFile
+* ADB Support
+* Android (iDroid) 2.2.3 "duh"
 * iDroiderTools3
 * iDroiderDrivers
 * Bundle of additional cmd tools
-* Updated dpkg
-* Fixed Cydia for iOS 3 (Soon)
-* Full Jailbreak (Using Pwnage)
+* Other Cools Things :P
 
 ## How to install
 
 macOS
-* Download the IPSW for your device from [here](link)
-* Download iDroider Desktop Program from [here](link)
-* Drag the iDroider Program to /Applications 
+* Download iDroiderDesktop from [here](link)
+* Unzip and Drag iDroiderDesktop to  Desktop
 * Plug in device in dfu mode press “Enter Pwned DFU” on iDroider Desktop Program
 * iTunes will open, simple Alt-Click Restore and select the IPSW you downloaded
 * Let it restore once on the homescreen turn of the device
